@@ -1,9 +1,9 @@
-### Hi There, I'm Minhaj-Sadik [MinhajSadik] [website] 👋
+### Hi There, I'm Minhaj-Sadik [MinhajSadik] [WebSite] 👋
 
 [![Website](https://img.shields.io/website?label=cleverlearner'z.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://CleverLearner'z.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MinhajSadik1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MinhajSadik1)
 
-## I'm a Programmer, Self Learner, Developer, And Teacher!
+## I'm a Programmer, Self Learner, Developer, And Future Teacher!
 
 - 🔭 I just launched my first course: [CleverLearner'z!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" backgroudColor="white" alt="cleverlearner'z.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="cleverlearner'z.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,17 +40,18 @@
 
 <br />
 <br />
+<br />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
+START_SECTION:activity
 1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
+END_SECTION:activity
 
 </details>
 
@@ -61,7 +62,7 @@
 
 </details>
 
-[website]: https://CleverLearner'z.com
+[website]: https://CleverLearnerz.com
 [course]: http://cleverlearnerz.com
 [twitter]: https://twitter.com/MinhajSadik1
 [youtube]: https://youtube.com/cleverlaernerz
