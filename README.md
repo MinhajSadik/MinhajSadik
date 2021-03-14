@@ -60,7 +60,7 @@ END_SECTION:activity
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.MinhajSadik.vercel.app/api?username=MinhajSadik&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src=[![Minhaj'S GitHub stats](https://github-readme-stats.vercel.app/api?MinhajSadik=anuraghazra)](https://github.com/MinhajSadik/github-readme-stats) />
 
 </details>
 
