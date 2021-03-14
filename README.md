@@ -60,7 +60,7 @@ END_SECTION:activity
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Minhaj'S GitHub stats](https://github-readme-stats.vercel.app/api?MinhajSadik=anuraghazra)](https://github.com/MinhajSadik/github-readme-stats)
+  [![Minhaj'S GitHub stats](https://github-readme-stats.vercel.app/api?MinhajSadik=MinhajSadik)](https://github.com/MinhajSadik/github-readme-stats)
 
 </details>
 
