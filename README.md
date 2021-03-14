@@ -5,7 +5,7 @@
 
 ## I'm a Programmer, Self Learner, Developer, And Teacher!
 
-- 🔭 I just launched my first course: [CleverLearner'z!][]!
+- 🔭 I just launched my first course: [CleverLearner'z!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -94,9 +94,9 @@
 </details>
 
 [website]: https://CleverLearner'z.com
-<!-- [course]: http://cleverlearnerz.com -->
+[course]: http://cleverlearnerz.com
 [twitter]: https://twitter.com/MinhajSadik1
 [youtube]: https://youtube.com/cleverlaernerz
 [instagram]:https://instagram.com/minhaj_sadik
-[linkedin]: https://linkedin.com/MinhajSadik -->
+[linkedin]: https://linkedin.com/MinhajSadik 
 
