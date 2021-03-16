@@ -45,11 +45,14 @@
 <p><a href="https://www.buymeacoffee.com/MinhajSadik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MinhajSadik" /></a></p><br><br>
 
 <br/>
-<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajsadik&show_icons=true&locale=en&layout=compact" alt="minhajsadik" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhajsadik&show_icons=true&locale=en" alt="minhajsadik" /></p>
+
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&" alt="minhajsadik" /></p>
 
