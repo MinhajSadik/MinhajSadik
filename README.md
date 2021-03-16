@@ -52,7 +52,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhajsadik&show_icons=true&locale=en" alt="minhajsadik" /></p>
 
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&" alt="minhajsadik" /></p>
-
