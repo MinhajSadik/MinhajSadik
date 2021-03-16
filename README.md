@@ -21,7 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- Letest Technology: [https://cleverlearnerz.blogspot.com](https://cleverlearnerz.blogspot.com/2021/03/when-creating-computer-and-first.html)
+- Letest Technology: [clever learnerz](https://cleverlearnerz.blogspot.com/2021/03/when-creating-computer-and-first.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
