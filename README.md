@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhajsadik" alt="minhajsadik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/minhajsadik1" target="blank"><img src="https://img.shields.io/twitter/follow/minhajsadik1?logo=twitter&style=for-the-badge" alt="minhajsadik1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/minhajsadik1" target="blank"><img src="https://img.shields.io/twitter/follow/minhajsadik1?logo=twitter style=for-the-badge" alt="minhajsadik1" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Python, PHP, Rust, React, Angular, React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MinhajSadik](https://github.com/MinhajSadik)
+- 👨‍💻 All of my projects are available at [https://github.com/MinhajSadik](MinhajSadik)
 
 - 💬 Ask me about **React, JavaScript, Python, React Native, Angular.**
 
-- 📫 How to reach me **MinhajoSadik@gmail.com**
+- 📫 How to reach me [MinhajoSadik@gmail.com](MinhajSadik)
 
-- 📄 Know about my experiences [https://github.com/MinhajSadik](https://github.com/MinhajSadik)
+- 📄 Know about my experiences [https://github.com/MinhajSadik](MinhajSadik)
 
 - ⚡ Fun fact **I Love Playing Cricket, Badminton, Tennis**
 
