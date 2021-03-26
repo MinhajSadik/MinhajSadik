@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, JavaScript, Python, React Native, Angular.**
 
-- 📫 How to reach me [Minhaj Sadik](MinhajoSadik@gmail.com)
+- 📫 How to reach me **MinhajoSadik@gmail.com**
 
 - 📄 Know about my experiences [MinhajSadik](https://github.com/MinhajSadik)
 
