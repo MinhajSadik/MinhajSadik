@@ -7,6 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/minhajsadik1" target="blank"><img src="https://img.shields.io/twitter/follow/minhajsadik1?logo=twitter&style=for-the-badge" alt="minhajsadik1" /></a> </p>
 
+<br/>
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/solaiman-shadin/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/dev.shadin) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@solaimanshadin) 
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10425732/solaiman-shadin)
+
+<br>
+
 - 🌱 I’m currently learning **JavaScript, Python, PHP, Rust, React, Angular, React Native**
 
 - 👨‍💻 All of my projects are available at [MinhajSadik](https://github.com/MinhajSadik)
@@ -21,7 +30,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- Letest Technology: [Clever Learnerz](https://cleverlearnerz.blogspot.com/2021/03/when-creating-computer-and-first.html)
+- Letest Blog: [Clever Learnerz](https://cleverlearnerz.blogspot.com/2021/03/when-creating-computer-and-first.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
