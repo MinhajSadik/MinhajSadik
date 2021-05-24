@@ -9,14 +9,14 @@
 
 <br/>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/minhaj-sadik-26a424185/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/MinhajSadik) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/MinhajSadik13) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@minhajsadik) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15435443/minhajsadik)
 
 <br>
 
-- 🌱 I’m currently learning **JavaScript, Python, PHP, Rust, React, Angular, React Native**
+- 🌱 I’m currently learning **JavaScript, Python, Rust, React, Angular, React Native, PHP**
 
 - 👨‍💻 All of my projects are available at [MinhajSadik](https://github.com/MinhajSadik)
 
@@ -30,16 +30,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- Letest Blog: [Clever Learnerz](https://cleverlearnerz.blogspot.com/2021/03/when-creating-computer-and-first.html)
+- Letest Blog: [Clever Learnerz](https://cleverlearnerz.blogspot.com)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/minhajsadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/minhajsadik" height="30" width="40" /></a>
-<a href="https://twitter.com/minhajsadik1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="minhajsadik1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/minhajsadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/minhajsadik" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/minhajsadik13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://web.facebook.com/minhajsadik13/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/minhaj_sadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/minhaj_sadik" height="30" width="40" /></a>
+<a href="https://dev.to/minhajsadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/minhajsadik" height="30" width="40" /></a>
+<a href="https://twitter.com/MinhajSadik1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="minhajsadik1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/MinhajSadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/minhajsadik" height="30" width="40" /></a>
+<a href="https://web.facebook.com/MinhajSadik13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://web.facebook.com/minhajsadik13/" height="30" width="40" /></a>
+<a href="https://instagram.com/minhaj_sadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/minhaj_sadik" height="30" width="40" /></a>
 <a href="https://medium.com/@minhajosadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@minhajosadik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6I0U9NjTTQQGpKI73_mNXQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://youtube.com/cleverlearnerz" height="30" width="40" /></a>
 </p>
