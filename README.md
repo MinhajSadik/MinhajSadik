@@ -35,12 +35,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<<<<<<< HEAD
 <a href="https://dev.to/minhajsadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/minhajsadik" height="30" width="40" /></a>
 <a href="https://twitter.com/MinhajSadik1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="minhajsadik1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/MinhajSadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/minhajsadik" height="30" width="40" /></a>
 <a href="https://web.facebook.com/MinhajSadik13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://web.facebook.com/minhajsadik13/" height="30" width="40" /></a>
 <a href="https://instagram.com/minhaj_sadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/minhaj_sadik" height="30" width="40" /></a>
 <a href="https://medium.com/@minhajosadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@minhajosadik" height="30" width="40" /></a>
+=======
+<a href="https://dev.to/https://dev.to/minhajsadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/minhajsadik" height="30" width="40" /></a>
+<a href="https://twitter.com/minhajsadik1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="minhajsadik1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/minhajsadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/minhajsadik" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/minhajsadik13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://web.facebook.com/minhajsadik13/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/minhaj_sadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/minhaj_sadik" height="30" width="40" /></a>
+<a href="https://medium.com/@minhajsadik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@minhajosadik" height="30" width="40" /></a>
+>>>>>>> bdacfc63f310c4eec33d980e5da693dd0242e4c3
 <a href="https://www.youtube.com/channel/UC6I0U9NjTTQQGpKI73_mNXQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://youtube.com/cleverlearnerz" height="30" width="40" /></a>
 </p>
 
