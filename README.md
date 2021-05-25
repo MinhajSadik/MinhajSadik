@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MinhajSadik</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A full-stack Software developer from Bangladesh, Thank You So Much Visiting My Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajsadik&label=Profile%20views&color=0e75b6&style=flat" alt="minhajsadik" /> </p>
 
@@ -24,13 +24,14 @@
 
 - 📫 How to reach me **MinhajoSadik@gmail.com**
 
-- 📄 Know about my experiences [MinhajSadik](https://github.com/MinhajSadik)
+- 📄 Check My Portfolio [Portfolio](https://react-portfolio-resume.netlify.app/)
 
 - ⚡ Fun fact **I Love Playing Cricket, Badminton, Tennis**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - Letest Blog: [Clever Learnerz](https://cleverlearnerz.blogspot.com)
+- Letest Blog: [MinhajSadik](https://medium.com/@MinhajSadik)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
