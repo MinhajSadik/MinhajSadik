@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MinhajSadik</h1>
-<h3 align="center">A full-stack Software developer from Bangladesh, Thank You So Much Visiting My Profile</h3>
+<h3 align="center">A full-stack Software developer from Bangladesh, Thank You So Much Visiting My github README.md Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajsadik&label=Profile%20views&color=0e75b6&style=flat" alt="minhajsadik" /> </p>
 
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/minhajsadik1" target="blank"><img src="https://img.shields.io/twitter/follow/minhajsadik1?logo=twitter&style=for-the-badge" alt="minhajsadik1" /></a> </p>
 
 <br/>
-
+[d]
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/MinhajSadik) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/MinhajSadik13) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@minhajsadik) 
