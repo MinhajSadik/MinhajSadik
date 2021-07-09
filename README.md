@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MinhajSadik</h1>
-<h3 align="center">A full-stack Software developer from Bangladesh, Thank You So Much Visiting My github README.md Profile</h3>
+<h3 align="center">A full-stack Software developer from Bangladesh, Thank You So Much Visiting My github Portfolio & Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajsadik&label=Profile%20views&color=0e75b6&style=flat" alt="minhajsadik" /> </p>
 
@@ -15,11 +15,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **JavaScript, Python, Rust, React, Angular, React Native, PHP**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Python, Rust, React, Next.js, Vue.js, Redux.js, Redux-Saga, React-Native**
 
 - 👨‍💻 All of my projects are available at [MinhajSadik](https://github.com/MinhajSadik)
 
-- 💬 Ask me about **React, JavaScript, Python, React Native, Angular.**
+- 💬 Ask me about **JavaScript, TypeScript, Python, React.js, Redux.js,React-Native, Vue.js, Next.js**
 
 - 📫 How to reach me **MinhajoSadik@gmail.com**
 
