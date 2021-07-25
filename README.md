@@ -46,14 +46,29 @@
 
 [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/thinkjs) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![Nextjs Badge](https://img.shields.io/badge/-NextJs-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://lwsbd.link/Next.js)
 
-### Support
+## Support & Follow
 
-<p><a href="https://www.buymeacoffee.com/MinhajSadik"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MinhajSadik" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/MinhajSadik"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MinhajSadik" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajsadik&show_icons=true&locale=en&layout=compact" alt="minhajsadik" /></p>
+<br>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajsadik&show_icons=true&theme=radical&show_icons=true&locale=en&layout=compact" alt="minhajsadik" /></p>
 
 <br/>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=minhajsadik&show_icons=true&locale=en" alt="minhajsadik" /></p>
+![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&" alt="minhajsadik" /></p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinhajSadik&show_icons=true&theme=radical&)](https://github.com/MinhajSadik)
+
+<br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&show_icons=true&theme=radical" alt="minhajsadik" /></p>
+
+<br/>
+<br/>
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
