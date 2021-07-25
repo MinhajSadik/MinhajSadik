@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajsadik&show_icons=true&theme=radical&show_icons=true&locale=en&layout=compact" alt="minhajsadik" /></p>
+![MinhajSadik](https://github-readme-stats.vercel.app/api/top-langs?username=minhajsadik&show_icons=true&theme=radical&show_icons=true&locale=en&layout=compact)
 
 <br/>
 
@@ -63,11 +63,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&show_icons=true&theme=radical" alt="minhajsadik" /></p>
-
-<br/>
-<br/>
-<br/>
+![MinhajSadik](https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
