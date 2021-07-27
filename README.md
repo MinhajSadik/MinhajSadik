@@ -57,10 +57,10 @@
 
 ![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinhajSadik&show_icons=true&theme=radical&)](https://github.com/MinhajSadik)
-
 ![MinhajSadik](https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=Developer-Portfolio)](https://github.com/MinhajSadik)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-Native)](https://github.com/MinhajSadik)
