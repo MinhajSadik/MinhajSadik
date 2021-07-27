@@ -59,8 +59,8 @@
 
 ![MinhajSadik](https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=Realtime-Pizza-App)](https://github.com/MinhajSadik/Realtime-Pizza-App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=Developer-Portfolio)](https://github.com/MinhajSadik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik/React-TypeScript-Shopping-Cart)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-Native)](https://github.com/MinhajSadik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-Native)](https://github.com/MinhajSadik/React-Native)
