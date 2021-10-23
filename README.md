@@ -1,29 +1,22 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hi there my gorgeous friend, I Hope You're pretty well
 
-<h3 align="center">(Minhaj Sadik)=> Full-Stack Software Developer from Bangladesh</h3>
+<h3 align="center">( Minhaj Sadik ) => Full-Stack Software Engineer From Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajsadik&label=Profile%20views&color=0e75b6&style=flat" alt="minhajsadik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MinhajSadik&label=Profile%20views&color=0e75b6&style=flat" alt="minhajsadik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhajsadik" alt="minhajsadik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MinhajSadik" alt="minhajsadik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/minhajsadik1" target="blank"><img src="https://img.shields.io/twitter/follow/minhajsadik1?logo=twitter&style=for-the-badge" alt="minhajsadik1" /></a> </p>
 
-<!--
-<br/>
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/MinhajSadik)[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/MinhajSadik13)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@minhajsadik)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15435443/minhajsadik)
-<br> -->
-
-- 🌱 I’m currently learning **JavaScript, TypeScript, Python, Rust, React, Next.js, Vue.js, Redux.js, Redux-Saga, React-Native**
+- 🌱 I’m currently learning **GoLang, C/C++, TypeScript, GoFiber, MongoDB, ReactNative**
 
 - 👨‍💻 All of my projects are available at [MinhajSadik](https://github.com/MinhajSadik)
 
-- 💬 Ask me about **JavaScript, TypeScript, Python, React.js, Redux.js,React-Native, Vue.js, Next.js**
+- 💬 Ask me about **JavaScript, TypeScript, GoLang, ReactJS, NextJS, React-Native, MongoDB, NodeJS, ExpressJS, GoFiber**
 
 - 📫 How to reach me **MinhajoSadik@gmail.com**
 
-- 📄 Check My Portfolio [Portfolio](https://react-portfolio-resume.netlify.app/)
+- 📄 Check My Portfolio [Portfolio](https://react-portfolio-resume.netlify.app/) & [Portfolio](https://developer-minhaj-portfolio.netlify.app/)
 
 - ⚡ Fun fact **I Love Playing Cricket, Badminton, Tennis**
 
@@ -40,11 +33,12 @@
 
 ### Most-Used-Tech
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://lwsbd.link/JavaScript) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://lwsbd.link/TypeScript) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://lwsbd.link/React) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://lwsbd.link/Node.js) [![MongoDb Badge](https://img.shields.io/badge/-MongoDb-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://lwsbd.link/MongoDB) [![Nextjs Badge](https://img.shields.io/badge/-NextJs-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://lwsbd.link/Next.js)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://lwsbd.link/JavaScript)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-0090f7?style=for-the-badge&labelColor=black&logo=typescript&logoColor)](https://lwsbd.link/TypeScript) [![Go Badge](https://img.shields.io/badge/-GoLang-blue?style=for-the-badge&labelColor=black&logo=GO&logoColor)](https://lwsbd.link/Go) [![GO Fiber Badge](https://img.shields.io/badge/-FIBER-blue?style=for-the-badge&labelColor=black&logo=go&logoColor)](https://lwsbd.link/Go) [![React Badge](https://img.shields.io/badge/-ReactJS-20232A?style=for-the-badge&labelColor=black&logo=React&logoColor)](https://lwsbd.link/React) [![Nextjs Badge](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor)](https://lwsbd.link/Next.js) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor)](https://lwsbd.link/Node.js) [![MongoDb Badge](https://img.shields.io/badge/-MongoDb-7c781d?style=for-the-badge&labelColor=black&logo=mongodb&logoColor)](https://lwsbd.link/MongoDB) [![Express Badge](https://img.shields.io/badge/-ExpressJS-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor)](https://lwsbd.link/MongoDB)
 
 ## Expart
 
-[![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/thinkjs) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![Nextjs Badge](https://img.shields.io/badge/-NextJs-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://lwsbd.link/Next.js)
+[![JavaScript Badget](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/thinkjs) [![TypeScript Badget](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)](https://lwsbd.link/ts) [![Go Badge](https://img.shields.io/badge/-GoLang-blue?style=for-the-badge&labelColor=black&logo=GO&logoColor)](https://lwsbd.link/go) [![GO Fiber Badge](https://img.shields.io/badge/-FIBER-blue?style=for-the-badge&labelColor=black&logo=go&logoColor)](https://lwsbd.link/go) [![React Badget](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Badget](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=black&logoColor=3C873A)](https://lwsbd.link/node) [![MongoDB Badge](https://img.shields.io/badge/-MONGODB-7c781d?style=for-the-badge&labelColor=black&logo=mongodb&logoColor)](https://lwsbd.link/Next.js)
 
 ## Support & Follow
 
