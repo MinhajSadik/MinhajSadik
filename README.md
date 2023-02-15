@@ -1,6 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="Hi"> Hi There My Gorgeous Friends, I Hope You're pretty well
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="Hi"> Hi there my gorgeous friends, I hope you are pretty well.
 
-<h3 align="left">( Minhaj Sadik ) Full Stack Software Developer From Bangladesh</h3>
+<h3 align="left"> Minhaj Sadik a Software Developer from Bangladesh</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=MinhajSadik&label=Profile%20views&color=0e75b6&style=flat" alt="minhajsadik" /> 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **MinhajoSadik@gmail.com**
 
-- 📄 Check My Portfolio [Portfolio](https://react-portfolio-resume.netlify.app/) & [Portfolio](https://developer-minhaj-portfolio.netlify.app/)
+- 📄 Check My Portfolio [Portfolio](https://minhajsadik-portfolio.netlify.app)
 
 - ⚡ Fun fact **I Love Playing Cricket, Badminton, Tennis**
 
@@ -51,7 +51,7 @@
 
 ![MinhajSadik](https://github-readme-stats.vercel.app/api/top-langs?username=minhajsadik&show_icons=true&theme=radical&show_icons=true&locale=en&layout=compact)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username:MinhajSadik&show_icons=true&theme=radical)](https://github.com/MinhajSadik) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinhajSadik&show_icons=true&theme=radical)](https://github.com/MinhajSadik)
 
 ![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical)
 
