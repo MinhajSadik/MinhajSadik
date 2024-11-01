@@ -1,64 +1,138 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="Hi"> Hi there my gorgeous friends, I hope you are pretty well.
+<h1 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="👋"> Hello, I'm Minhaj Sadik!</h1>
 
-<h3 align="left"> Minhaj Sadik a self-taught Software Engineer from Bangladesh</h3>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=MinhajSadik&label=Profile%20views&color=0e75b6&style=flat" alt="minhajsadik" /> 
+<p align="center">
+  <strong>Software Engineer | DevOps & Cloud Enthusiast</strong>  
+  <br />  
+  <em>Building High-Performance, Scalable, and Secure Applications for Millions of Users</em>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MinhajSadik" alt="minhajsadik" /></a> </p>
+<p align="center">
+  <a href="https://facebook.com/MinhajoSadik">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/SadikUddin">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/minhaj_sadik">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/MinhajSadik1">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="mailto:minhaj@techstride.digital">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" />
+    </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/minhajsadik1" target="blank"><img src="https://img.shields.io/twitter/follow/minhajsadik1?logo=twitter&style=for-the-badge" alt="minhajsadik1" /></a> </p>
+---
 
-- 🌱 I’m currently learning **GoLang, C/C++, TypeScript, GoFiber, MongoDB, ReactNative**
+### 🌟 About Me
+As a self-taught Software Engineer, I specialize in scalable backend systems with strong experience in DevOps and Cloud Engineering. I thrive on building high-performance applications, optimizing cloud infrastructure, and exploring new technologies. Always excited to connect with fellow tech enthusiasts and share knowledge.
 
-- 👨‍💻 All of my projects are available at [MinhajSadik](https://github.com/MinhajSadik)
+- 🌱 **Learning**: Infrastructure as Code (IaC), Cloud Architecture, 
+- 💬 **Ask me about**: JavaScript, TypeScript, NodeJS, GoLang, Cloud, DevOps, Microservices
+- ⚡ **Fun fact**: I’m passionate about Cricket, Badminton, and Tennis!
+- 📫 **Reach me**: <a href="mailto:minhaj@techstride.digital"> Email Me </a>
 
-- 💬 Ask me about **JavaScript, TypeScript, GoLang, ReactJS, NextJS, React-Native, MongoDB, NodeJS, ExpressJS, GoFiber**
+---
 
-- 📫 How to reach me **MinhajoSadik@gmail.com**
+## 🚀 Tech Stack & Skills
 
-- 📄 Check My Portfolio [Portfolio](https://minhajsadik-portfolio.netlify.app)
+### 👨‍💻 Programming & Frameworks
+- **Languages**: JavaScript, TypeScript, GoLang, C/C++
+- **Frameworks**: Node.js, Express, React, Next.js, GoFiber
 
-- ⚡ Fun fact **I Love Playing Cricket, Badminton, Tennis**
+### ☁️ DevOps & Cloud Engineering
+- **DevOps & Cloud**: RabbitMQ, gRPC, RPC, Nginx, AWS (EC2, S3, Lambda), GCP, Terraform
+- **CI/CD & Containerization**: Jenkins, GitHub Actions, Docker, Kubernetes, ELK Stack
 
-<!-- BLOG-POST-LIST:START -->
+### 🛠️ Databases & Caching
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Caching**: Redis, Memcached
 
-- Letest Blog: [Clever Learnerz](https://cleverlearnerz.blogspot.com)
-- Letest Blog: [MinhajSadik](https://medium.com/@MinhajSadik)
+### 🏛️ Architectures & Design Patterns
+- **System Architectures**: Microservices, Monolithic, Client-Server  
+- **Design Patterns**: RESTful APIs, System Design, Performance Optimization
 
-<!-- BLOG-POST-LIST:END -->
+---
 
-## Connect with me
+## 💬 What Clients & Colleagues Say
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/MinhajoSadik) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@minhajsadik) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MinhajSadik) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/minhaj_sadik) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MinhajSadik1) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MinhajSadik@icloud.com)
+> "Collaborating with Minhaj transformed our project. His deep knowledge of DevOps and Microservices Architecture enabled us to scale effortlessly and achieve faster, more reliable releases. Minhaj’s proactive approach and meticulous attention to detail have been a tremendous asset to our team." 
+> — James Turner, Senior Product Manager, Genius IT Solution.
 
-### Most-Used-Tech
+---
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://lwsbd.link/JavaScript)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-0090f7?style=for-the-badge&labelColor=black&logo=typescript&logoColor)](https://lwsbd.link/TypeScript) [![Go Badge](https://img.shields.io/badge/-GoLang-blue?style=for-the-badge&labelColor=black&logo=GO&logoColor)](https://lwsbd.link/Go) [![GO Fiber Badge](https://img.shields.io/badge/-FIBER-blue?style=for-the-badge&labelColor=black&logo=go&logoColor)](https://lwsbd.link/Go) [![React Badge](https://img.shields.io/badge/-ReactJS-20232A?style=for-the-badge&labelColor=black&logo=React&logoColor)](https://lwsbd.link/React) [![Nextjs Badge](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor)](https://lwsbd.link/Next.js) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor)](https://lwsbd.link/Node.js) [![MongoDb Badge](https://img.shields.io/badge/-MongoDb-7c781d?style=for-the-badge&labelColor=black&logo=mongodb&logoColor)](https://lwsbd.link/MongoDB) [![Express Badge](https://img.shields.io/badge/-ExpressJS-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor)](https://lwsbd.link/MongoDB)
+## 💼 Featured Projects
 
-## Expart
+### Freelaneer – Technical Lead
 
-[![JavaScript Badget](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/thinkjs) [![TypeScript Badget](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)](https://lwsbd.link/ts) [![Go Badge](https://img.shields.io/badge/-GoLang-blue?style=for-the-badge&labelColor=black&logo=GO&logoColor)](https://lwsbd.link/go) [![GO Fiber Badge](https://img.shields.io/badge/-FIBER-blue?style=for-the-badge&labelColor=black&logo=go&logoColor)](https://lwsbd.link/go) [![React Badget](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Badget](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=black&logoColor=3C873A)](https://lwsbd.link/node) [![MongoDB Badge](https://img.shields.io/badge/-MONGODB-7c781d?style=for-the-badge&labelColor=black&logo=mongodb&logoColor)](https://lwsbd.link/Next.js)
+> **About Project**: An all-in-one freelance platform with job posting, virtual office, asset marketplace, and project management features, similar to Upwork/Fiverr.
+> 
+> **Technologies**: Docker, Kubernetes, AWS, NodeJS, TypeScript, Redis, MongoDB, Jenkins, Nginx, RPC, RabbitMQ, Apache Kafka
 
-## Support & Follow
+---
 
-<p><a href="https://www.buymeacoffee.com/MinhajSadik"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MinhajSadik" /></a></p>
+### Emailer – Software and DevOps Engineer
 
-<br>
-<br>
+> **About Project**: A bulk email distribution tool like Mailchimp, optimized for high-volume email campaigns with tracking.
+> 
+> **Technologies**: NodeJS, SMTP, Docker, Nginx, Jenkins, MongoDB
 
-![MinhajSadik](https://github-readme-stats.vercel.app/api/top-langs?username=minhajsadik&show_icons=true&theme=radical&show_icons=true&locale=en&layout=compact)
+---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinhajSadik&show_icons=true&theme=radical)](https://github.com/MinhajSadik)
+### SocialSuites – Software and DevOps Engineer
 
-![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical)
+> **About Project**: A social media management tool with multi-platform scheduling, analytics, and engagement features inspired by Hootsuite.
+> 
+> **Technologies**: Golang, Gin, Fiber, MongoDB, Radis, Docker, Kubernetes, Jenkins, Nginx, RabbitMQ, gRPC
 
-![MinhajSadik](https://github-readme-streak-stats.herokuapp.com/?user=minhajsadik&show_icons=true&theme=radical)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=Realtime-Pizza-App)](https://github.com/MinhajSadik/Realtime-Pizza-App)
+### CloudBox – Software and DevOps Engineer
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-TypeScript-Shopping-Cart)](https://github.com/MinhajSadik/React-TypeScript-Shopping-Cart)
+> **About Project**: CloudBox is a Object storage with CDN support, offering high-speed content delivery similar to AWS S3.
+> 
+> **Technologies**: Golang, .Net, Docker, Kubernetes, MongoDB, Redis, Nginx, Jenkins, RabbitMQ, gRPC, FTP, NFS, SSHFS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhajSadik&show_icons=true&theme=radical&repo=React-Native)](https://github.com/MinhajSadik/React-Native)
+---
+
+### CodenUI – Backend Engineer | Project Manager
+
+> **About Project**: Led the development of a digital asset marketplace for buying and selling digital products, with a microservices architecture to separate front-end and back-end services.
+> 
+> **Technologies**: NodeJS, TypeScript, MongoDB, Docker, Monolithic, Digital Ocean, CI/CD, NextJS, Redis
+
+---
+
+### Rental – Backend Engineer | Project Manager
+
+> **About Project**: Built a rental management platform connecting property owners with renters, integrating secure payment solutions and robust user profiles.
+> 
+> **Technologies**: NodeJS, TypeScript, Docker, MongodBD, Redis, Monolithic, REST APIs, Nginx, CI/CD
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Minhaj Sadik's GitHub stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajSadik&layout=compact&langs_count=7&theme=radical" alt="Top languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhajSadik&theme=radical" alt="Profile Details"/>
+</p>
+
+---
+
+## ⏰ Development Activity Tracked by Wakatime
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinhajSadik&show_icons=true&theme=radical)
+  
+---
+
+<p align="center">
+    <em>"Continuous learning is the key to innovation!"</em>
+</p>
