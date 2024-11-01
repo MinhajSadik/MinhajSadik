@@ -26,15 +26,17 @@
 
 ---
 
-### 🌟 About Me
-As a self-taught Software Engineer, I specialize in scalable backend systems with strong experience in DevOps and Cloud Engineering. I thrive on building high-performance applications, optimizing cloud infrastructure, and exploring new technologies. Always excited to connect with fellow tech enthusiasts and share knowledge.
+## 🌟 About Me
 
-- 🌱 **Learning**: Infrastructure as Code (IaC), Cloud Architecture, 
+```As a self-taught Software Engineer, I specialize in scalable backend systems with strong experience in DevOps and Cloud Engineering. I thrive on building high-performance applications, optimizing cloud infrastructure, and exploring new technologies. Always excited to connect with fellow tech enthusiasts and share knowledge.```
+
+- 🌱 **Learning**: Infrastructure as Code (IaC), Cloud Architecture, Networking
 - 💬 **Ask me about**: JavaScript, TypeScript, NodeJS, GoLang, Cloud, DevOps, Microservices
 - ⚡ **Fun fact**: I’m passionate about Cricket, Badminton, and Tennis!
 - 📫 **Reach me**: <a href="mailto:minhaj@techstride.digital"> Email Me </a>
 
 ---
+<br/>
 
 ## 🚀 Tech Stack & Skills
 
@@ -55,13 +57,16 @@ As a self-taught Software Engineer, I specialize in scalable backend systems wit
 - **Design Patterns**: RESTful APIs, System Design, Performance Optimization
 
 ---
+<br/>
 
-## 💬 What Clients & Colleagues Say
+## 💬 What Clients Say about Minhaj?
 
-> "Collaborating with Minhaj transformed our project. His deep knowledge of DevOps and Microservices Architecture enabled us to scale effortlessly and achieve faster, more reliable releases. Minhaj’s proactive approach and meticulous attention to detail have been a tremendous asset to our team." 
-> — James Turner, Senior Product Manager, Genius IT Solution.
+```Collaborating with Minhaj transformed our project. His deep knowledge of DevOps and Microservices Architecture enabled us to scale effortlessly and achieve more faster and reliablereleases. Minhaj's proactive approach and meticulous attention to detail have been a tremendous asset to our team```
+
+```- James Turner - Senior Product Manager at Genius IT Solution```
 
 ---
+<br/>
 
 ## 💼 Featured Projects
 
@@ -70,8 +75,8 @@ As a self-taught Software Engineer, I specialize in scalable backend systems wit
 > **About Project**: An all-in-one freelance platform with job posting, virtual office, asset marketplace, and project management features, similar to Upwork/Fiverr.
 > 
 > **Technologies**: Docker, Kubernetes, AWS, NodeJS, TypeScript, Redis, MongoDB, Jenkins, Nginx, RPC, RabbitMQ, Apache Kafka
+![Freelaneer Demo](https://github.com)
 
----
 
 ### Emailer – Software and DevOps Engineer
 
@@ -79,7 +84,6 @@ As a self-taught Software Engineer, I specialize in scalable backend systems wit
 > 
 > **Technologies**: NodeJS, SMTP, Docker, Nginx, Jenkins, MongoDB
 
----
 
 ### SocialSuites – Software and DevOps Engineer
 
@@ -87,7 +91,6 @@ As a self-taught Software Engineer, I specialize in scalable backend systems wit
 > 
 > **Technologies**: Golang, Gin, Fiber, MongoDB, Radis, Docker, Kubernetes, Jenkins, Nginx, RabbitMQ, gRPC
 
----
 
 ### CloudBox – Software and DevOps Engineer
 
@@ -95,7 +98,6 @@ As a self-taught Software Engineer, I specialize in scalable backend systems wit
 > 
 > **Technologies**: Golang, .Net, Docker, Kubernetes, MongoDB, Redis, Nginx, Jenkins, RabbitMQ, gRPC, FTP, NFS, SSHFS
 
----
 
 ### CodenUI – Backend Engineer | Project Manager
 
@@ -103,7 +105,6 @@ As a self-taught Software Engineer, I specialize in scalable backend systems wit
 > 
 > **Technologies**: NodeJS, TypeScript, MongoDB, Docker, Monolithic, Digital Ocean, CI/CD, NextJS, Redis
 
----
 
 ### Rental – Backend Engineer | Project Manager
 
@@ -111,25 +112,29 @@ As a self-taught Software Engineer, I specialize in scalable backend systems wit
 > 
 > **Technologies**: NodeJS, TypeScript, Docker, MongodBD, Redis, Monolithic, REST APIs, Nginx, CI/CD
 
----
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Minhaj Sadik's GitHub stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&show_icons=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajSadik&layout=compact&langs_count=7&theme=radical" alt="Top languages"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhajSadik&theme=radical" alt="Profile Details"/>
 </p>
 
 ---
 
-## ⏰ Development Activity Tracked by Wakatime
+<br/>
+
+## ⏰ Development Activity.
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinhajSadik&show_icons=true&theme=radical)
+
   
 ---
 
