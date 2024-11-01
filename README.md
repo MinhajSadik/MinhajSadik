@@ -1,12 +1,12 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="👋"> Hello, I'm Minhaj Sadik!</h1>
+<h1><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="👋"> Hello, I'm Minhaj Sadik!</h1>
 
-<p align="center">
+<p>
   <strong>Software Engineer | DevOps & Cloud Enthusiast</strong>  
   <br />  
   <em>Building High-Performance, Scalable, and Secure Applications for Millions of Users</em>
 </p>
 
-<p align="center">
+<p>
   <a href="https://facebook.com/MinhajoSadik">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
