@@ -61,9 +61,9 @@
 
 ## 💬 What Clients Say about Minhaj?
 
-```Collaborating with Minhaj transformed our project. His deep knowledge of DevOps and Microservices Architecture enabled us to scale effortlessly and achieve more faster and reliablereleases. Minhaj's proactive approach and meticulous attention to detail have been a tremendous asset to our team```
+>```Collaborating with Minhaj transformed our project. His deep knowledge of DevOps and Microservices Architecture enabled us to scale effortlessly and achieve more faster and reliablereleases. Minhaj's proactive approach and meticulous attention to detail have been a tremendous asset to our team```
 
-```- James Turner - Senior Product Manager at Genius IT Solution```
+>```- James Turner - Senior Product Manager at Genius IT Solution```
 
 ---
 <br/>
