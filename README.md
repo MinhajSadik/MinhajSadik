@@ -28,7 +28,7 @@
 
 ## 🌟 About Me
 
-```As a self-taught Software Engineer, I specialize in scalable backend systems with strong experience in DevOps and Cloud Engineering. I thrive on building high-performance applications, optimizing cloud infrastructure, and exploring new technologies. Always excited to connect with fellow tech enthusiasts and share knowledge.```
+>```As a self-taught Software Engineer, I specialize in scalable backend systems with strong experience in DevOps and Cloud Engineering. I thrive on building high-performance applications, optimizing cloud infrastructure, and exploring new technologies. Always excited to connect with fellow tech enthusiasts and share knowledge.```
 
 - 🌱 **Learning**: Infrastructure as Code (IaC), Cloud Architecture, Networking
 - 💬 **Ask me about**: JavaScript, TypeScript, NodeJS, GoLang, Cloud, DevOps, Microservices
