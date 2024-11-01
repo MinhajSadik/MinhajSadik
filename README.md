@@ -76,7 +76,7 @@
 > 
 > **Technologies**: Docker, Kubernetes, AWS, NodeJS, TypeScript, Redis, MongoDB, Jenkins, Nginx, RPC, RabbitMQ, Apache Kafka
 
-![Freelaneer Demo](/Assets/freelaneer_gif.mp4)
+![Freelaneer Demo](./Assets/freelaneer_gif.mp4)
 
 
 ### Emailer – Software and DevOps Engineer
