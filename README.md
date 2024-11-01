@@ -75,7 +75,8 @@
 > **About Project**: An all-in-one freelance platform with job posting, virtual office, asset marketplace, and project management features, similar to Upwork/Fiverr.
 > 
 > **Technologies**: Docker, Kubernetes, AWS, NodeJS, TypeScript, Redis, MongoDB, Jenkins, Nginx, RPC, RabbitMQ, Apache Kafka
-![Freelaneer Demo](https://github.com)
+
+![Freelaneer Demo](/Assets/freelaneer_gif.mp4)
 
 
 ### Emailer – Software and DevOps Engineer
