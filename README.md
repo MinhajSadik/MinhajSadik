@@ -1,9 +1,8 @@
 <h1><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="👋"> Hello, I'm Minhaj Sadik!</h1>
 
-<p>
-  <strong>Software Engineer | DevOps & Cloud Enthusiast</strong>  
-  <br />  
-  <em>Building High-Performance, Scalable, and Secure Applications for Millions of Users</em>
+<p> 
+  <h2> <strong>Software Engineer | DevOps & Cloud Enthusiast</strong></h1>
+  <h3><em>Building High-Performance, Scalable, and Secure Applications for Millions of Users</em><h3/>
 </p>
 
 <p>
@@ -25,6 +24,8 @@
 </p>
 
 ---
+
+<br/>
 
 ## 🌟 About Me
 
@@ -116,6 +117,7 @@
 
 <br/>
 
+
 ## 📊 GitHub Stats
 
 <p>
@@ -127,8 +129,6 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&show_icons=true" alt="GitHub Streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajSadik&langs_count=7&theme=radical" alt="Top languages"/>
 </p>
-
----
 
 <br/>
 
