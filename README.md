@@ -31,10 +31,10 @@
 
 >```As a self-taught Software Engineer, I specialize in scalable backend systems with strong experience in DevOps and Cloud Engineering. I thrive on building high-performance applications, optimizing cloud infrastructure, and exploring new technologies. Always excited to connect with fellow tech enthusiasts and share knowledge.```
 
-- 🌱 **Learning**: Infrastructure as Code (IaC), Cloud Architecture, Networking
-- 💬 **Ask me about**: JavaScript, TypeScript, NodeJS, GoLang, Cloud, DevOps, Microservices
+- 🌱 **Learning**: Infrastructure as Code (IaC), System Architecture, Networking, Rust
+- 💬 **Ask me about**: JavaScript, Golang, C/C++/C#, NodeJS, Cloud, DevOps, Microservices, System Design
 - ⚡ **Fun fact**: I’m passionate about Cricket, Badminton, and Tennis!
-- 📫 **Reach me**: <a href="mailto:minhaj@techstride.digital"> Email Me </a>
+- 📫 **Reach me**: <a href="mailto:minhaj@techstride.digital"> Send Mail </a>
 
 ---
 <br/>
@@ -42,11 +42,11 @@
 ## 🚀 Tech Stack & Skills
 
 ### 👨‍💻 Programming & Frameworks
-- **Languages**: JavaScript, TypeScript, GoLang, C/C++
-- **Frameworks**: Node.js, Express, React, Next.js, GoFiber
+- **Languages**: JavaScript, GoLang, C/C++/C#, Rust
+- **Frameworks**: NodeJS, .NET, ExpressJS, ReactJS, NextJS, GoKit, Gin, Fiber
 
 ### ☁️ DevOps & Cloud Engineering
-- **DevOps & Cloud**: RabbitMQ, gRPC, RPC, Nginx, AWS (EC2, S3, Lambda), GCP, Terraform
+- **DevOps & Cloud**: RabbitMQ, gRPC, RPC, Nginx, AWS (EC2, S3, Lambda), GCP, Terraform, Consul
 - **CI/CD & Containerization**: Jenkins, GitHub Actions, Docker, Kubernetes, ELK Stack
 
 ### 🛠️ Databases & Caching
@@ -73,46 +73,46 @@
 
 ### Freelaneer – Technical Lead
 
-> **About Project**: An all-in-one freelance platform with job posting, virtual office, asset marketplace, and project management features, similar to Upwork/Fiverr.
+> **About Project**: An all-in-one freelance platform with Job Posting, Virtual Office, Asset Marketplace, and Project Management features, similar to Upwork/Fiverr.
 > 
-> **Technologies**: Docker, Kubernetes, AWS, NodeJS, TypeScript, Redis, MongoDB, Jenkins, Nginx, RPC, RabbitMQ, Apache Kafka
+> **Technologies**: NodeJS, TypeScript, Docker, Kubernetes, AWS, Redis, MongoDB, Jenkins, Nginx, RPC, RabbitMQ, Apache Kafka, Socket.Io, Microservice
 
 ![Freelaneer Demo](./Assets/freelaneer_gif.mp4)
 
 
 ### Emailer – Software and DevOps Engineer
 
-> **About Project**: A bulk email distribution tool like Mailchimp, optimized for high-volume email campaigns with tracking.
+> **About Project**: A bulk email distribution tool like Mailchimp, optimized for high-volume email campaigns with real-time monitoring feature.
 > 
-> **Technologies**: NodeJS, SMTP, Docker, Nginx, Jenkins, MongoDB
+> **Technologies**: NodeJS, TypeScript, SMTP, Docker, Nginx, Jenkins, MongoDB, gRPC, Microservice 
 
 
 ### SocialSuites – Software and DevOps Engineer
 
-> **About Project**: A social media management tool with multi-platform scheduling, analytics, and engagement features inspired by Hootsuite.
+> **About Project**: A social media multi-platform management tool with scheduling, analytics, and engagement features inspired by HootSuite.
 > 
-> **Technologies**: Golang, Gin, Fiber, MongoDB, Radis, Docker, Kubernetes, Jenkins, Nginx, RabbitMQ, gRPC
+> **Technologies**: Golang, Gin, Fiber, GoKit, MongoDB, Radis, Docker, Kubernetes, Jenkins, Nginx, RabbitMQ, gRPC, Microservice
 
 
 ### CloudBox – Software and DevOps Engineer
 
 > **About Project**: CloudBox is a Object storage with CDN support, offering high-speed content delivery similar to AWS S3.
 > 
-> **Technologies**: Golang, .Net, Docker, Kubernetes, MongoDB, Redis, Nginx, Jenkins, RabbitMQ, gRPC, FTP, NFS, SSHFS
+> **Technologies**: Golang, GoKit, Gin, Fiber .Net, Docker, Kubernetes, MongoDB, Redis, Nginx, Jenkins, RabbitMQ, gRPC, FTP, NFS, SSHFS, Microservice
 
 
 ### CodenUI – Backend Engineer | Project Manager
 
-> **About Project**: Led the development of a digital asset marketplace for buying and selling digital products, with a microservices architecture to separate front-end and back-end services.
+> **About Project**: Led the development of a digital asset marketplace for buying and selling digital products, with a Monolithic architecture to separate front-end and back-end services.
 > 
 > **Technologies**: NodeJS, TypeScript, MongoDB, Docker, Monolithic, Digital Ocean, CI/CD, NextJS, Redis
 
 
 ### Rental – Backend Engineer | Project Manager
 
-> **About Project**: Built a rental management platform connecting property owners with renters, integrating secure payment solutions and robust user profiles.
+> **About Project**: Built a rent management platform connecting property owners with buyers, integrating secure payment solutions and robust user profiles.
 > 
-> **Technologies**: NodeJS, TypeScript, Docker, MongodBD, Redis, Monolithic, REST APIs, Nginx, CI/CD
+> **Technologies**: NodeJS, TypeScript, Docker, MongodBD, Redis, Monolithic, REST APIs, Nginx
 
 
 <br/>
@@ -123,11 +123,8 @@
 <p>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhajSadik&show_icons=true&theme=radical" alt="Profile Details"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Minhaj Sadik's GitHub stats"/>
-</p>
-
-<p>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&show_icons=true" alt="GitHub Streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajSadik&langs_count=7&theme=radical" alt="Top languages"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&show_icons=true" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -140,5 +137,5 @@
 ---
 
 <p align="center">
-    <em>"Continuous learning is the key to innovation!"</em>
+    <em><strong>P.S: "Continuous learning is the key to innovation!"</strong></em>
 </p>
