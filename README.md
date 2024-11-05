@@ -137,5 +137,5 @@
 ---
 
 <p align="center">
-    <em><strong>P.S: "Continuous learning is the key to innovation!"</strong></em>
+    <em><strong>PS: "Continuous learning is the key to innovation!"</strong></em>
 </p>
