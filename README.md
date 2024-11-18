@@ -124,7 +124,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhajSadik&show_icons=true&theme=radical" alt="Profile Details"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhajSadik&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Minhaj Sadik GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhajSadik&langs_count=7&theme=radical" alt="Top languages"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&show_icons=true" alt="GitHub Streak"/>
+<!--   <img height="180em" src="https://streak-stats.demolab.com/?user=MinhajSadik&theme=radical&show_icons=true" alt="GitHub Streak"/> -->
 </p>
 
 <br/>
