@@ -4,7 +4,6 @@
   <h2> <strong>Software Engineer | DevOps & Cloud Enthusiast</strong></h1>
   <h3><em>Building High-Performance, Scalable, and Secure Applications for Millions of Users</em><h3/>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sadikuddin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/sadikuddin?trk=profile-badge">Minhaj Sadik</a></div>
 <p>
   <a href="https://facebook.com/MinhajoSadik">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
