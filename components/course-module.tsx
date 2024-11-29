@@ -106,7 +106,7 @@ const CourseModule: NextPage<CourseModuleType> = ({
             width={24}
             height={24}
             alt=""
-            src="/arrowdown01.svg"
+            src="/arrowdown011.svg"
           />
           <H h3TextDecoration={h3TextDecoration}>{h3}</H>
         </ModuleItemHeader>
