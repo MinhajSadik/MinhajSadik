@@ -451,6 +451,7 @@ const FrameComponent8: NextPage<FrameComponent8Type> = ({ className = "" }) => {
         hostingDisplay="unset"
         hostingMinWidth="unset"
         hostingTextDecoration="none"
+        footerPadding="0px 32px"
       />
     </FAQContentParentRoot>
   );

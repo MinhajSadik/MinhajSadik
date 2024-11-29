@@ -195,7 +195,7 @@ const DownloadButton = styled.div`
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  padding: var(--padding-base) var(--padding-5xl) 14px;
+  padding: var(--padding-base) var(--padding-5xl) var(--padding-sm);
   gap: var(--gap-xl);
 `;
 const ModuleContent = styled.div`
@@ -275,7 +275,7 @@ const Root: NextPage<RootType> = ({ className = "" }) => {
           width={730}
           height={368}
           alt=""
-          src="/rectangle-1551@2x.png"
+          src="/rectangle-15511@2x.png"
         />
         <Texts>
           <H>The Complete 2024 Web Development Bootcamp</H>

@@ -272,6 +272,7 @@ const ServicesPage: NextPage = () => {
         hostingDisplay="inline-block"
         hostingMinWidth="60px"
         hostingTextDecoration="unset"
+        footerPadding="0px 32px"
       />
     </ServicesPageRoot>
   );

@@ -26,6 +26,7 @@ export type FooterType = {
   hostingDisplay?: CSSProperties["display"];
   hostingMinWidth?: CSSProperties["minWidth"];
   hostingTextDecoration?: CSSProperties["textDecoration"];
+  footerPadding?: CSSProperties["padding"];
 };
 
 const ReadyToElevate = styled.h1`
@@ -400,6 +401,7 @@ const FooterRoot = styled.section<{
   footerPosition?: CSSProperties["position"];
   footerTop?: CSSProperties["top"];
   footerLeft?: CSSProperties["left"];
+  footerPadding?: CSSProperties["padding"];
 }>`align-self: stretch;
   display: flex;
   flex-direction: column;
@@ -412,6 +414,7 @@ const FooterRoot = styled.section<{
   position: ${(p) => p.footerPosition}
   top: ${(p) => p.footerTop}
   left: ${(p) => p.footerLeft}
+  padding: ${(p) => p.footerPadding}
 `;
 
 const Footer: NextPage<FooterType> = ({
@@ -434,6 +437,7 @@ const Footer: NextPage<FooterType> = ({
   hostingDisplay,
   hostingMinWidth,
   hostingTextDecoration,
+  footerPadding,
 }) => {
   return (
     <FooterRoot
@@ -441,6 +445,7 @@ const Footer: NextPage<FooterType> = ({
       footerPosition={footerPosition}
       footerTop={footerTop}
       footerLeft={footerLeft}
+      footerPadding={footerPadding}
       className={className}
     >
       <Content>

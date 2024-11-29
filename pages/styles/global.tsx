@@ -26,6 +26,9 @@ export default createGlobalStyle`@import url('https://fonts.googleapis.com/css2?
 --font-size-lgi: 19px;
 --font-size-sm: 14px;
 --font-size-xl: 20px;
+--font-size-3xl: 22px;
+--font-size-13xl: 32px;
+--font-size-7xl: 26px;
 
 /* Colors */
 --color-white: #fff;
@@ -42,6 +45,7 @@ export default createGlobalStyle`@import url('https://fonts.googleapis.com/css2?
 --color-darkslategray-300: rgba(59, 54, 69, 0.6);
 --color-darkslategray-400: rgba(53, 53, 53, 0.5);
 --color-goldenrod: #ffda58;
+--color-goldenrod-100: rgba(255, 218, 88, 0.12);
 --color-whitesmoke: #f6f6f6;
 --greyscale-400: #5e5969;
 --color-dimgray-100: #545454;
@@ -76,6 +80,8 @@ export default createGlobalStyle`@import url('https://fonts.googleapis.com/css2?
 --gap-6xs: 7px;
 --gap-91xl: 110px;
 --gap-36xl: 55px;
+--gap-29xl: 48px;
+--gap-41xl: 60px;
 --gap-9xs: 4px;
 --gap-10xs: 3px;
 
@@ -140,8 +146,9 @@ export default createGlobalStyle`@import url('https://fonts.googleapis.com/css2?
 --padding-72xl: 91px;
 --padding-28xl: 47px;
 --padding-xl-5: 20.5px;
---padding-3xs: 10px;
 --padding-6xs: 7px;
+--padding-sm: 14px;
+--padding-3xs: 10px;
 --padding-8xs: 5px;
 
 /* Border radiuses */
