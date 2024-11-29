@@ -1,8 +1,8 @@
-import { Fragment, useEffect } from "react";
-import Head from "next/head";
-import type { AppProps } from "next/app";
 import { ThemeProvider, createTheme } from "@mui/material";
 import CssBaseline from "@mui/material/CssBaseline";
+import type { AppProps } from "next/app";
+import Head from "next/head";
+import { Fragment, useEffect } from "react";
 
 import GlobalStyles from "./styles/global";
 
@@ -21,7 +21,7 @@ export default function MyApp(props: AppProps) {
   return (
     <Fragment>
       <Head>
-        <title>minhajsadik_portfolio</title>
+        <title>MinhajSadik_Portfolio</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
