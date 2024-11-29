@@ -1,11 +1,11 @@
 import {
   FunctionComponent,
-  useMemo,
-  type CSSProperties,
+  memo,
   useCallback,
+  type CSSProperties,
 } from "react";
 import { useNavigate } from "react-router-dom";
-import styles from "./Details.module.css";
+import styled from "styled-components";
 
 export type DetailsType = {
   className?: string;
@@ -20,61 +20,100 @@ export type DetailsType = {
   h3Display?: CSSProperties["display"];
 };
 
-const Details: FunctionComponent<DetailsType> = ({
-  className = "",
-  detailsWidth,
-  group469393,
-  groupIconBorderRadius,
-  h3,
-  h3Height,
-  h3Display,
-  peragraph1,
-}) => {
-  const detailsStyle: CSSProperties = useMemo(() => {
-    return {
-      width: detailsWidth,
-    };
-  }, [detailsWidth]);
+const DetailsChild = styled.img<{
+  groupIconBorderRadius?: CSSProperties["borderRadius"];
+}>`
+  align-self: stretch;
+  height: 368px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  border-radius: ${(p) => p.groupIconBorderRadius};
+`;
+const H = styled.h3<{
+  h3Height?: CSSProperties["height"];
+  h3Display?: CSSProperties["display"];
+}>`margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: inherit;
+  @media screen and (max-width: 450px) {
+  font-size: var(--font-size-lgi);
+  
+  }
+  height: ${(p) => p.h3Height}
+  display: ${(p) => p.h3Display}
+`;
+const Peragraph = styled.div`
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+  color: var(--greyscale-400);
+`;
+const Texts = styled.div`
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+`;
+const DetailsRoot = styled.div<{ detailsWidth?: CSSProperties["width"] }>`
+  width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-inter);
+  width: ${(p) => p.detailsWidth};
+`;
 
-  const groupIconStyle: CSSProperties = useMemo(() => {
-    return {
-      borderRadius: groupIconBorderRadius,
-    };
-  }, [groupIconBorderRadius]);
+const Details: FunctionComponent<DetailsType> = memo(
+  ({
+    className = "",
+    detailsWidth,
+    group469393,
+    groupIconBorderRadius,
+    h3,
+    h3Height,
+    h3Display,
+    peragraph1,
+  }) => {
+    const navigate = useNavigate();
 
-  const h3Style: CSSProperties = useMemo(() => {
-    return {
-      height: h3Height,
-      display: h3Display,
-    };
-  }, [h3Height, h3Display]);
+    const onDetailsContainerClick = useCallback(() => {
+      navigate("/course-view-page");
+    }, [navigate]);
 
-  const navigate = useNavigate();
-
-  const onDetailsContainerClick = useCallback(() => {
-    navigate("/course-view-page");
-  }, [navigate]);
-
-  return (
-    <div
-      className={[styles.details, className].join(" ")}
-      onClick={onDetailsContainerClick}
-      style={detailsStyle}
-    >
-      <img
-        className={styles.detailsChild}
-        alt=""
-        src={group469393}
-        style={groupIconStyle}
-      />
-      <div className={styles.texts}>
-        <h3 className={styles.h3} style={h3Style}>
-          {h3}
-        </h3>
-        <div className={styles.peragraph1}>{peragraph1}</div>
-      </div>
-    </div>
-  );
-};
+    return (
+      <DetailsRoot
+        onClick={onDetailsContainerClick}
+        detailsWidth={detailsWidth}
+        className={className}
+      >
+        <DetailsChild
+          alt=""
+          src={group469393}
+          groupIconBorderRadius={groupIconBorderRadius}
+        />
+        <Texts>
+          <H h3Height={h3Height} h3Display={h3Display}>
+            {h3}
+          </H>
+          <Peragraph>{peragraph1}</Peragraph>
+        </Texts>
+      </DetailsRoot>
+    );
+  }
+);
 
 export default Details;

@@ -1,17 +1,33 @@
-import { FunctionComponent } from "react";
+import { FunctionComponent, memo } from "react";
 import LeftContent from "./LeftContent";
-import styles from "./LeftInner.module.css";
+import styled from "styled-components";
 
 export type LeftInnerType = {
   className?: string;
 };
 
-const LeftInner: FunctionComponent<LeftInnerType> = ({ className = "" }) => {
-  return (
-    <div className={[styles.leftInner, className].join(" ")}>
-      <LeftContent />
-    </div>
-  );
-};
+const LeftInnerRoot = styled.div`
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-12xl) var(--padding-6xs);
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+`;
+
+const LeftInner: FunctionComponent<LeftInnerType> = memo(
+  ({ className = "" }) => {
+    return (
+      <LeftInnerRoot className={className}>
+        <LeftContent />
+      </LeftInnerRoot>
+    );
+  }
+);
 
 export default LeftInner;
