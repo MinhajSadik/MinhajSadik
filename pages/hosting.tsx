@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import FrameComponent5 from "../components/frame-component5";
 import FrameComponent6 from "../components/frame-component6";
-import FrameComponent7 from "../components/frame-component7";
+import FrameComponent7 from "/";
 import FrameComponent8 from "../components/frame-component8";
 import styled from "styled-components";
 
