@@ -1,8 +1,8 @@
+import { Fragment, useEffect } from "react";
+import Head from "next/head";
+import type { AppProps } from "next/app";
 import { ThemeProvider, createTheme } from "@mui/material";
 import CssBaseline from "@mui/material/CssBaseline";
-import type { AppProps } from "next/app";
-import Head from "next/head";
-import { Fragment, useEffect } from "react";
 
 import GlobalStyles from "./styles/global";
 
@@ -21,7 +21,7 @@ export default function MyApp(props: AppProps) {
   return (
     <Fragment>
       <Head>
-        <title>MinhajSadik_Portfolio</title>
+        <title>ms_portfolio</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
@@ -30,7 +30,7 @@ export default function MyApp(props: AppProps) {
         <style
           dangerouslySetInnerHTML={{
             __html: `@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;1,400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;700&display=swap');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 `,
           }}

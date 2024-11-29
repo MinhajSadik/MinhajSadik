@@ -1,76 +1,88 @@
 import type { NextPage } from "next";
-import { type CSSProperties } from "react";
 import Image from "next/image";
 import styled from "styled-components";
 
 export type FrameComponentType = {
   className?: string;
-
-  /** Style props */
-  tick02BackgroundColor?: CSSProperties["backgroundColor"];
+  frame4: string;
 };
 
-const VectorIcon = styled(Image)`
-  width: 14px;
-  height: 11px;
+const FrameChild = styled(Image)`
+  height: 130.3px;
+  width: 239.9px;
+  border-radius: var(--br-81xl);
+  object-fit: contain;
+  @media screen and (max-width: 850px) {
+    flex: 1;
+  }
+`;
+const HackerrankIcon = styled(Image)`
+  height: 28px;
+  width: 28px;
   position: relative;
 `;
-const Tick = styled.div<{
-  tick02BackgroundColor?: CSSProperties["backgroundColor"];
-}>`
-  border-radius: var(--br-31xl);
-  background-color: var(--color-white);
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  padding: var(--padding-6xs) var(--padding-8xs);
-  background-color: ${(p) => p.tick02BackgroundColor};
-`;
-const Peragraph = styled.div`
-  flex: 1;
+const Hackerrank = styled.div`
+  width: 140px;
   position: relative;
-  line-height: 21px;
+  font-weight: 500;
   display: inline-block;
-  min-width: 185px;
+  flex-shrink: 0;
+  @media screen and (max-width: 450px) {
+    font-size: var(--font-size-lgi);
+  }
 `;
-const Tick02ParentRoot = styled.div`
-  width: 324px;
+const HackerRankContainer = styled.div`
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-gray-100);
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-base);
-  max-width: 100%;
-  text-align: left;
-  font-size: var(--font-size-sm);
-  color: var(--greyscale-400);
-  font-family: var(--font-inter);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-26xl);
+  gap: var(--gap-3xs);
+  z-index: 1;
+  margin-left: -44px;
   @media screen and (max-width: 450px) {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+    margin-left: 0;
+  }
+`;
+const FrameParentRoot = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  row-gap: 20px;
+  max-width: 100%;
+  z-index: 1;
+  margin-left: -10px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+  @media screen and (max-width: 850px) {
+    flex: 1;
     flex-wrap: wrap;
+    min-width: 100%;
+    margin-left: 0;
   }
 `;
 
 const FrameComponent: NextPage<FrameComponentType> = ({
   className = "",
-  tick02BackgroundColor,
+  frame4,
 }) => {
   return (
-    <Tick02ParentRoot className={className}>
-      <Tick tick02BackgroundColor={tick02BackgroundColor}>
-        <VectorIcon
-          loading="lazy"
-          width={14}
-          height={11}
-          alt=""
-          src="/vector-11.svg"
-        />
-      </Tick>
-      <Peragraph>
-        Build 16 web development projects for your portfolio, ready to apply for
-        junior developer jobs.
-      </Peragraph>
-    </Tick02ParentRoot>
+    <FrameParentRoot className={className}>
+      <FrameChild loading="lazy" width={240} height={130} alt="" src={frame4} />
+      <HackerRankContainer>
+        <HackerrankIcon width={28} height={28} alt="" src="/hackerrank1.svg" />
+        <Hackerrank>HackerRank</Hackerrank>
+      </HackerRankContainer>
+    </FrameParentRoot>
   );
 };
 

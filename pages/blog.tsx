@@ -1,9 +1,8 @@
 import type { NextPage } from "next";
 import Image from "next/image";
 import styled from "styled-components";
-import FrameComponent2 from "../components/frame-component2";
-import BlogPost from "../components/blog-post";
-import BlogCards from "../components/blog-cards";
+import Main from "../components/main";
+import Aside from "../components/aside";
 import Footer from "../components/footer";
 
 const LineBackgroundShapes = styled(Image)`
@@ -133,7 +132,7 @@ const BottomContentParent = styled.section`
   justify-content: flex-start;
   padding: var(--padding-46xl) var(--padding-xl);
   box-sizing: border-box;
-  gap: var(--gap-46xl);
+  gap: 65px;
   max-width: 100%;
   text-align: left;
   font-size: var(--font-size-sm);
@@ -154,51 +153,7 @@ const BottomContentParent = styled.section`
     gap: var(--gap-base);
   }
 `;
-const ListDivider = styled.div`
-  align-self: stretch;
-  flex: 1;
-  position: relative;
-  border-top: 1px solid var(--color-silver);
-  box-sizing: border-box;
-  max-width: 100%;
-`;
-const BlogListHeader = styled.div`
-  align-self: stretch;
-  height: 1px;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
-  padding: 0px var(--padding-11xl) 0px var(--padding-12xl);
-  box-sizing: border-box;
-  max-width: 100%;
-`;
-const BlogsSection = styled.div`
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: var(--padding-46xl) var(--padding-xl);
-  box-sizing: border-box;
-  gap: 54px;
-  max-width: 100%;
-  margin-top: -1px;
-  @media screen and (max-width: 850px) {
-    gap: var(--gap-8xl);
-    padding-bottom: var(--padding-23xl);
-    box-sizing: border-box;
-  }
-`;
-const BlogList = styled.section`
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  max-width: 100%;
-`;
-const BlogViewPageRoot = styled.div`
+const BlogRoot = styled.div`
   width: 100%;
   position: relative;
   background-color: var(--color-white);
@@ -213,16 +168,16 @@ const BlogViewPageRoot = styled.div`
   letter-spacing: normal;
 `;
 
-const BlogViewPage: NextPage = () => {
+const Blog: NextPage = () => {
   return (
-    <BlogViewPageRoot>
+    <BlogRoot>
       <LineBackgroundShapes
         width={867}
         height={2653}
         alt=""
         src="/line-background-shapes.svg"
       />
-      <FrameComponent2 />
+      <Main />
       <BottomContentParent>
         <BottomContent>
           <Calendar03Parent>
@@ -284,18 +239,25 @@ const BlogViewPage: NextPage = () => {
           </IntroHeadings>
         </BlogIntro>
       </BottomContentParent>
-      <BlogList>
-        <BlogListHeader>
-          <ListDivider />
-        </BlogListHeader>
-        <BlogsSection>
-          <BlogPost />
-          <BlogCards />
-        </BlogsSection>
-      </BlogList>
-      <Footer />
-    </BlogViewPageRoot>
+      <Aside />
+      <Footer
+        menuItemsRowGap="unset"
+        menuItemsOverflowX="auto"
+        navigationItemsFlex="unset"
+        navigationItemsMinWidth="unset"
+        servicesTextDecoration="unset"
+        navigationItemsFlex1="unset"
+        navigationItemsMinWidth1="unset"
+        coursesDisplay="inline-block"
+        coursesMinWidth="64px"
+        navigationItemsFlex2="unset"
+        navigationItemsMinWidth2="unset"
+        hostingTextDecoration="unset"
+        hostingDisplay="inline-block"
+        hostingMinWidth="60px"
+      />
+    </BlogRoot>
   );
 };
 
-export default BlogViewPage;
+export default Blog;

@@ -1,14 +1,5 @@
 const nextConfig = {
-    reactStrictMode: true,
-    
-    typescript: {
-      ignoreBuildErrors: true,
-    },
-    distDir: "build",
-    output: "export",
-    images: {
-      unoptimized: true,
-    },
-  };
+  reactStrictMode: true,
+};
 
-  module.exports = nextConfig;
+module.exports = nextConfig;

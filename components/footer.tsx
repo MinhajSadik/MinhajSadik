@@ -8,12 +8,8 @@ export type FooterType = {
   className?: string;
 
   /** Style props */
-  footerAlignSelf?: CSSProperties["alignSelf"];
-  footerPosition?: CSSProperties["position"];
-  footerTop?: CSSProperties["top"];
-  footerLeft?: CSSProperties["left"];
-  menuItemsOverflowX?: CSSProperties["overflowX"];
   menuItemsRowGap?: CSSProperties["rowGap"];
+  menuItemsOverflowX?: CSSProperties["overflowX"];
   navigationItemsFlex?: CSSProperties["flex"];
   navigationItemsMinWidth?: CSSProperties["minWidth"];
   servicesTextDecoration?: CSSProperties["textDecoration"];
@@ -23,10 +19,9 @@ export type FooterType = {
   coursesMinWidth?: CSSProperties["minWidth"];
   navigationItemsFlex2?: CSSProperties["flex"];
   navigationItemsMinWidth2?: CSSProperties["minWidth"];
+  hostingTextDecoration?: CSSProperties["textDecoration"];
   hostingDisplay?: CSSProperties["display"];
   hostingMinWidth?: CSSProperties["minWidth"];
-  hostingTextDecoration?: CSSProperties["textDecoration"];
-  footerPadding?: CSSProperties["padding"];
 };
 
 const ReadyToElevate = styled.h1`
@@ -76,7 +71,7 @@ const Spesility = styled.div`
     gap: var(--gap-base);
   }
 `;
-const ReadyToElevateYourSkillsOParent = styled.div`
+const CallToAction = styled.div`
   width: 655px;
   display: flex;
   flex-direction: column;
@@ -84,7 +79,7 @@ const ReadyToElevateYourSkillsOParent = styled.div`
   justify-content: flex-start;
   gap: var(--gap-5xl);
   max-width: 100%;
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1225px) {
     flex: 1;
     min-width: 100%;
   }
@@ -115,14 +110,14 @@ const IconPlay = styled.div`
   justify-content: center;
   padding: var(--padding-base);
 `;
-const ContactLink = styled.div`
+const ContactButton = styled.div`
   width: 227px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
 `;
-const SocialLinks = styled.div`
+const Copyright = styled.div`
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -136,10 +131,10 @@ const SocialLinks = styled.div`
     min-width: 100%;
   }
 `;
-const FooterTop = styled.div`
+const Main1 = styled.div`
   align-self: stretch;
   border-radius: var(--br-base);
-  background-color: var(--color-darkslategray-400);
+  background-color: var(--color-darkslategray-600);
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -148,7 +143,7 @@ const FooterTop = styled.div`
   box-sizing: border-box;
   gap: var(--gap-63xl);
   max-width: 100%;
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1225px) {
     flex-wrap: wrap;
   }
   @media screen and (max-width: 850px) {
@@ -158,7 +153,7 @@ const FooterTop = styled.div`
     gap: var(--gap-xl);
   }
 `;
-const LeftColumnIcon = styled(Image)`
+const BrandingIcon = styled(Image)`
   height: 27.2px;
   width: 30.9px;
   position: relative;
@@ -169,7 +164,7 @@ const MinhajSadik = styled.div`
   position: relative;
   font-weight: 600;
 `;
-const ColumnItems = styled.div`
+const Content = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -197,11 +192,13 @@ const NavigationItems = styled.div`
   justify-content: center;
   padding: var(--padding-mini);
 `;
-const Services1 = styled.div<{
+const Services1 = styled.a<{
   servicesTextDecoration?: CSSProperties["textDecoration"];
 }>`
+  text-decoration: none;
   flex: 1;
   position: relative;
+  color: inherit;
   display: inline-block;
   min-width: 67px;
   text-decoration: ${(p) => p.servicesTextDecoration};
@@ -209,71 +206,82 @@ const Services1 = styled.div<{
 const NavigationItems1 = styled.div<{
   navigationItemsFlex?: CSSProperties["flex"];
   navigationItemsMinWidth?: CSSProperties["minWidth"];
-}>`display: flex;
+}>`flex: 1;
+  display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   padding: var(--padding-mini);
+  box-sizing: border-box;
+  min-width: 64px;
   flex: ${(p) => p.navigationItemsFlex}
   min-width: ${(p) => p.navigationItemsMinWidth}
 `;
-const Courses1 = styled.div<{
+const Home1 = styled.div<{
   coursesDisplay?: CSSProperties["display"];
   coursesMinWidth?: CSSProperties["minWidth"];
 }>`flex: 1;
   position: relative;
-  display: inline-block;
-  min-width: 64px;
   display: ${(p) => p.coursesDisplay}
   min-width: ${(p) => p.coursesMinWidth}
 `;
 const NavigationItems2 = styled.div<{
   navigationItemsFlex1?: CSSProperties["flex"];
   navigationItemsMinWidth1?: CSSProperties["minWidth"];
-}>`display: flex;
+}>`flex: 1;
+  display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   padding: var(--padding-mini);
+  box-sizing: border-box;
+  min-width: 64px;
   flex: ${(p) => p.navigationItemsFlex1}
   min-width: ${(p) => p.navigationItemsMinWidth1}
 `;
-const Hosting1 = styled.div<{
+const Hosting1 = styled.a<{
+  hostingTextDecoration?: CSSProperties["textDecoration"];
   hostingDisplay?: CSSProperties["display"];
   hostingMinWidth?: CSSProperties["minWidth"];
-  hostingTextDecoration?: CSSProperties["textDecoration"];
-}>`flex: 1;
+}>`text-decoration: none;
+  flex: 1;
   position: relative;
-  display: inline-block;
-  min-width: 60px;
+  color: inherit;
+  text-decoration: ${(p) => p.hostingTextDecoration}
   display: ${(p) => p.hostingDisplay}
   min-width: ${(p) => p.hostingMinWidth}
-  text-decoration: ${(p) => p.hostingTextDecoration}
 `;
 const NavigationItems3 = styled.div<{
   navigationItemsFlex2?: CSSProperties["flex"];
   navigationItemsMinWidth2?: CSSProperties["minWidth"];
-}>`display: flex;
+}>`flex: 1;
+  display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   padding: var(--padding-mini);
+  box-sizing: border-box;
+  min-width: 59px;
   flex: ${(p) => p.navigationItemsFlex2}
   min-width: ${(p) => p.navigationItemsMinWidth2}
 `;
 const MenuItems = styled.div<{
-  menuItemsOverflowX?: CSSProperties["overflowX"];
   menuItemsRowGap?: CSSProperties["rowGap"];
+  menuItemsOverflowX?: CSSProperties["overflowX"];
 }>`border-radius: var(--br-5xs);
   background-color: var(--color-darkslategray-100);
-  overflow-x: auto;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
+  row-gap: 20px;
   max-width: 100%;
-  overflow-x: ${(p) => p.menuItemsOverflowX}
+  @media screen and (max-width: 450px) {
+  flex-wrap: wrap;
+  
+  }
   row-gap: ${(p) => p.menuItemsRowGap}
+  overflow-x: ${(p) => p.menuItemsOverflowX}
 `;
 const IconSocialMedia = styled.div`
   flex: 1;
@@ -303,10 +311,10 @@ const RightSide = styled.div`
   box-sizing: border-box;
   max-width: 100%;
 `;
-const FooterInfo = styled.div`
+const LeftSideParent = styled.div`
   align-self: stretch;
   background-color: var(--color-gray-100);
-  border-bottom: 1px solid var(--color-gray-600);
+  border-bottom: 1px solid var(--color-gray-900);
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
@@ -326,7 +334,7 @@ const SupportingText2 = styled.div`
   display: inline-block;
   max-width: 100%;
 `;
-const Legal = styled.div`
+const Links = styled.div`
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -337,7 +345,7 @@ const Legal = styled.div`
     flex-wrap: wrap;
   }
 `;
-const Copyright = styled.div`
+const Legal = styled.div`
   align-self: stretch;
   display: flex;
   flex-direction: row;
@@ -346,12 +354,12 @@ const Copyright = styled.div`
   gap: var(--gap-xl);
   max-width: 100%;
   text-align: left;
-  color: var(--color-gray-700);
-  @media screen and (max-width: 1200px) {
+  color: var(--color-gray-1000);
+  @media screen and (max-width: 1225px) {
     flex-wrap: wrap;
   }
 `;
-const FooterBottom = styled.div`
+const Info = styled.div`
   align-self: stretch;
   display: flex;
   flex-direction: column;
@@ -366,7 +374,7 @@ const FooterBottom = styled.div`
     gap: var(--gap-base);
   }
 `;
-const Content = styled.footer`
+const Content1 = styled.footer`
   align-self: stretch;
   border-radius: var(--br-13xl);
   background-color: var(--color-gray-100);
@@ -380,9 +388,9 @@ const Content = styled.footer`
   max-width: 100%;
   text-align: left;
   font-size: var(--font-size-23xl);
-  color: var(--color-gray-700);
+  color: var(--color-gray-1000);
   font-family: var(--font-inter);
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1225px) {
     padding-left: var(--padding-13xl);
     padding-right: var(--padding-13xl);
     box-sizing: border-box;
@@ -396,13 +404,8 @@ const Content = styled.footer`
     box-sizing: border-box;
   }
 `;
-const FooterRoot = styled.section<{
-  footerAlignSelf?: CSSProperties["alignSelf"];
-  footerPosition?: CSSProperties["position"];
-  footerTop?: CSSProperties["top"];
-  footerLeft?: CSSProperties["left"];
-  footerPadding?: CSSProperties["padding"];
-}>`align-self: stretch;
+const FooterRoot = styled.section`
+  align-self: stretch;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -410,21 +413,13 @@ const FooterRoot = styled.section<{
   padding: 0px var(--padding-13xl);
   box-sizing: border-box;
   max-width: 100%;
-  align-self: ${(p) => p.footerAlignSelf}
-  position: ${(p) => p.footerPosition}
-  top: ${(p) => p.footerTop}
-  left: ${(p) => p.footerLeft}
-  padding: ${(p) => p.footerPadding}
+  z-index: 4;
 `;
 
 const Footer: NextPage<FooterType> = ({
   className = "",
-  footerAlignSelf,
-  footerPosition,
-  footerTop,
-  footerLeft,
-  menuItemsOverflowX,
   menuItemsRowGap,
+  menuItemsOverflowX,
   navigationItemsFlex,
   navigationItemsMinWidth,
   servicesTextDecoration,
@@ -434,23 +429,15 @@ const Footer: NextPage<FooterType> = ({
   coursesMinWidth,
   navigationItemsFlex2,
   navigationItemsMinWidth2,
+  hostingTextDecoration,
   hostingDisplay,
   hostingMinWidth,
-  hostingTextDecoration,
-  footerPadding,
 }) => {
   return (
-    <FooterRoot
-      footerAlignSelf={footerAlignSelf}
-      footerPosition={footerPosition}
-      footerTop={footerTop}
-      footerLeft={footerLeft}
-      footerPadding={footerPadding}
-      className={className}
-    >
-      <Content>
-        <FooterTop>
-          <ReadyToElevateYourSkillsOParent>
+    <FooterRoot className={className}>
+      <Content1>
+        <Main1>
+          <CallToAction>
             <ReadyToElevate>
               Ready to Elevate Your Skills or Start a Project?
             </ReadyToElevate>
@@ -476,14 +463,14 @@ const Footer: NextPage<FooterType> = ({
                 <SupportingText>minhaj@littleprogrammers.org</SupportingText>
               </Experinced>
             </Spesility>
-          </ReadyToElevateYourSkillsOParent>
-          <SocialLinks>
+          </CallToAction>
+          <Copyright>
             <SupportingText1>
               Whether you want to learn new skills or need help with a project,
               Minhaj is here to support you. Check out his courses or reach out
               for a chat about your next project!
             </SupportingText1>
-            <ContactLink>
+            <ContactButton>
               <ButtonContactUs
                 disableElevation
                 variant="contained"
@@ -509,14 +496,14 @@ const Footer: NextPage<FooterType> = ({
                   src="/arrowupleft01.svg"
                 />
               </IconPlay>
-            </ContactLink>
-          </SocialLinks>
-        </FooterTop>
-        <FooterBottom>
-          <FooterInfo>
+            </ContactButton>
+          </Copyright>
+        </Main1>
+        <Info>
+          <LeftSideParent>
             <LeftSide>
-              <ColumnItems>
-                <LeftColumnIcon
+              <Content>
+                <BrandingIcon
                   loading="lazy"
                   width={31}
                   height={27}
@@ -524,11 +511,11 @@ const Footer: NextPage<FooterType> = ({
                   src="/vector.svg"
                 />
                 <MinhajSadik>Minhaj Sadik</MinhajSadik>
-              </ColumnItems>
+              </Content>
             </LeftSide>
             <MenuItems
-              menuItemsOverflowX={menuItemsOverflowX}
               menuItemsRowGap={menuItemsRowGap}
+              menuItemsOverflowX={menuItemsOverflowX}
             >
               <NavigationItems>
                 <Home>Home</Home>
@@ -545,21 +532,21 @@ const Footer: NextPage<FooterType> = ({
                 navigationItemsFlex1={navigationItemsFlex1}
                 navigationItemsMinWidth1={navigationItemsMinWidth1}
               >
-                <Courses1
+                <Home1
                   coursesDisplay={coursesDisplay}
                   coursesMinWidth={coursesMinWidth}
                 >
                   Courses
-                </Courses1>
+                </Home1>
               </NavigationItems2>
               <NavigationItems3
                 navigationItemsFlex2={navigationItemsFlex2}
                 navigationItemsMinWidth2={navigationItemsMinWidth2}
               >
                 <Hosting1
+                  hostingTextDecoration={hostingTextDecoration}
                   hostingDisplay={hostingDisplay}
                   hostingMinWidth={hostingMinWidth}
-                  hostingTextDecoration={hostingTextDecoration}
                 >
                   Hosting
                 </Hosting1>
@@ -596,18 +583,18 @@ const Footer: NextPage<FooterType> = ({
                 </IconSocialMedia>
               </IconSocialMediaParent>
             </RightSide>
-          </FooterInfo>
-          <Copyright>
+          </LeftSideParent>
+          <Legal>
             <SupportingText2>
               © 2024 Minhaj Sadik. All rights reserved. | Designed by Dipu Paul
             </SupportingText2>
-            <Legal>
+            <Links>
               <SupportingText>Terms of services</SupportingText>
               <SupportingText>Privacy Policy</SupportingText>
-            </Legal>
-          </Copyright>
-        </FooterBottom>
-      </Content>
+            </Links>
+          </Legal>
+        </Info>
+      </Content1>
     </FooterRoot>
   );
 };
