@@ -5,6 +5,7 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
+import FrameComponent from "./components/FrameComponent";
 import Homepage from "./pages/Homepage";
 import CourseViewPage from "./pages/CourseViewPage";
 import ContactPage from "./pages/ContactPage";
@@ -26,6 +27,10 @@ function App() {
 
     switch (pathname) {
       case "/":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/homepage":
         title = "";
         metaDescription = "";
         break;
@@ -55,7 +60,8 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Homepage />} />
+      <Route path="/" element={<FrameComponent />} />
+      <Route path="/homepage" element={<Homepage />} />
       <Route path="/course-view-page" element={<CourseViewPage />} />
       <Route path="/contact-page" element={<ContactPage />} />
     </Routes>

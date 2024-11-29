@@ -12,7 +12,7 @@ const CourseViewPage: FunctionComponent = () => {
   const navigate = useNavigate();
 
   const onIconPlayContainerClick = useCallback(() => {
-    navigate("/");
+    navigate("/homepage");
   }, [navigate]);
 
   return (
