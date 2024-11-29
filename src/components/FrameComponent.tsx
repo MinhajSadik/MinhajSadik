@@ -31,10 +31,10 @@ const FrameComponent: FunctionComponent<FrameComponentType> = ({
             </div>
             <div className={styles.menuItems}>
               <div className={styles.navigationItems}>
-                <a className={styles.home}>Home</a>
+                <a href="/" className={styles.home}>Home</a>
               </div>
               <div className={styles.navigationItems1}>
-                <a className={styles.services}>Services</a>
+                <a href="/services" className={styles.services}>Services</a>
               </div>
               <div className={styles.navigationItems1}>
                 <a className={styles.courses}>Courses</a>
