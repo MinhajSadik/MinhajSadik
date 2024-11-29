@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import FrameComponent from "/";
+import FrameComponent from "../components/FrameComponent";
 import FrameComponent3 from "../components/FrameComponent3";
 import FrameComponent1 from "../components/FrameComponent1";
 import FrameComponent2 from "../components/FrameComponent2";
