@@ -1,7 +1,12 @@
 import { FunctionComponent } from "react";
+<<<<<<< HEAD
 import BlogPosts from "../components/BlogPosts";
 import BlogsContent from "../components/BlogsContent";
 import FrameComponent from "../components/FrameComponent";
+=======
+import FrameComponent from "../components/FrameComponent";
+import FrameComponent3 from "../components/FrameComponent3";
+>>>>>>> d91e27b141501b10659af2cbd14f5788f8a0980e
 import FrameComponent1 from "../components/FrameComponent1";
 import FrameComponent2 from "../components/FrameComponent2";
 import FrameComponent3 from "../components/FrameComponent3";

@@ -145,11 +145,13 @@
   text-align: right;
 }
 .buttons,
-.iconPlay,
-.rightSide {
+.iconPlay {
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+.rightSide {
+  display: flex;
 }
 .iconPlay {
   cursor: pointer;
@@ -162,8 +164,7 @@
 .iconPlay:hover {
   background-color: var(--color-goldenrod-200);
 }
-.buttons,
-.rightSide {
+.buttons {
   justify-content: flex-start;
 }
 .rightSide {
