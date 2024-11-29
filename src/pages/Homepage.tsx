@@ -1,14 +1,14 @@
 import { FunctionComponent } from "react";
-import FrameComponent from "/";
-import FrameComponent3 from "../components/FrameComponent3";
+import BlogPosts from "../components/BlogPosts";
+import BlogsContent from "../components/BlogsContent";
+import FrameComponent from "../components/FrameComponent";
 import FrameComponent1 from "../components/FrameComponent1";
 import FrameComponent2 from "../components/FrameComponent2";
+import FrameComponent3 from "../components/FrameComponent3";
+import Info from "../components/Info";
+import Main from "../components/Main";
 import TestimonialSection from "../components/TestimonialSection";
 import VideoSection from "../components/VideoSection";
-import BlogsContent from "../components/BlogsContent";
-import BlogPosts from "../components/BlogPosts";
-import Main from "../components/Main";
-import Info from "../components/Info";
 import styles from "./Homepage.module.css";
 
 const Homepage: FunctionComponent = () => {
@@ -18,17 +18,17 @@ const Homepage: FunctionComponent = () => {
         <img className={styles.colorShapeIcon} alt="" src="/color-shape.svg" />
         <img
           className={styles.b10f139403dfb6b5d46f5HeroGraIcon}
-          alt=""
+          alt="650b10f139403dfb6b5d46f5"
           src="/650b10f139403dfb6b5d46f5-hero-gradient-2@2x.png"
         />
         <img
           className={styles.lineBackgroundShapes}
-          alt=""
+          alt="line"
           src="/line-background-shapes.svg"
         />
         <img
           className={styles.b10f139403dfb6b5d46f5HeroGraIcon1}
-          alt=""
+          alt="650b10f139403dfb6b5d46f5"
           src="/650b10f139403dfb6b5d46f5-hero-gradient-1.svg"
         />
       </section>

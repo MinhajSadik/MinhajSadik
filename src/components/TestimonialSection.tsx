@@ -1,9 +1,15 @@
 import { FunctionComponent } from "react";
+import styled from 'styled-components';
 import styles from "./TestimonialSection.module.css";
 
 export type TestimonialSectionType = {
   className?: string;
 };
+
+const StyledImage = styled.img<{ $rows: number; $cols: number }>`
+  grid-row: span ${(props) => props.$rows};
+  grid-column: span ${(props) => props.$cols};
+`;
 
 const TestimonialSection: FunctionComponent<TestimonialSectionType> = ({
   className = "",
@@ -26,10 +32,10 @@ const TestimonialSection: FunctionComponent<TestimonialSectionType> = ({
               alt=""
               src="/client-image@2x.png"
             />
-            <img
+            <StyledImage
               className={styles.quotationMarksIcon}
-              rows={15}
-              cols={21}
+              $rows={15}
+              $cols={21}
               alt=""
               src="/quotation-marks@2x.png"
             />
