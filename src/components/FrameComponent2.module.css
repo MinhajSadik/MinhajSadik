@@ -1,0 +1,200 @@
+.fromConceptTo,
+.workProcess {
+  margin: 0;
+  position: relative;
+  font-family: inherit;
+}
+.workProcess {
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 400;
+}
+.fromConceptTo {
+  height: 146px;
+  font-size: var(--font-size-41xl);
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-gray-800);
+  display: inline-block;
+  flex-shrink: 0;
+}
+.description,
+.process {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.description {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-xs);
+}
+.process {
+  width: 862px;
+  flex-direction: row;
+  align-items: flex-end;
+}
+.companyLogoIcon {
+  width: 70px;
+  height: 70px;
+  position: relative;
+}
+.supportingText {
+  width: 226px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.more {
+  font-weight: 500;
+  color: var(--greyscale-500);
+}
+.supportingText1 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  color: var(--color-darkslategray-500);
+}
+.stage {
+  flex: 0.9474;
+  border-radius: var(--br-481xl);
+  background-color: var(--color-whitesmoke-100);
+  border-top: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-43xl) var(--padding-55xl) var(--padding-127xl);
+  gap: var(--gap-base);
+  min-width: 327px;
+  max-width: 100%;
+}
+.supportingText2 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.supportingText3 {
+  width: 288px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  display: inline-block;
+  color: var(--color-darkslategray-500);
+}
+.stage1,
+.stage2 {
+  border-radius: var(--br-481xl);
+  background-color: var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  min-width: 327px;
+  flex-shrink: 0;
+}
+.stage1 {
+  flex: 0.9934;
+  border-bottom: 1px solid var(--color-gray-700);
+  display: flex;
+  padding: var(--padding-46xl) var(--padding-48xl) var(--padding-124xl);
+  max-width: 100%;
+}
+.stage2 {
+  flex: 1;
+  border-top: 1px solid var(--color-gray-700);
+  padding: var(--padding-44xl) var(--padding-47xl) var(--padding-126xl);
+}
+.processParent,
+.stage2,
+.stages {
+  display: flex;
+  max-width: 100%;
+}
+.stages {
+  width: 1308px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  row-gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--greyscale-500);
+}
+.processParent {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-46xl) var(--padding-81xl);
+  box-sizing: border-box;
+  gap: var(--gap-41xl);
+  z-index: 1;
+  margin-top: -220px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1225px) {
+  .stages {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 850px) {
+  .fromConceptTo {
+    font-size: var(--font-size-29xl);
+  }
+  .processParent {
+    gap: var(--gap-11xl);
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    padding-bottom: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .workProcess {
+    font-size: var(--font-size-lgi);
+  }
+  .fromConceptTo {
+    font-size: var(--font-size-17xl);
+  }
+  .process {
+    gap: var(--gap-6xl);
+  }
+  .supportingText {
+    font-size: var(--font-size-base);
+  }
+  .stage {
+    padding: var(--padding-46xl) var(--padding-xl) var(--padding-76xl);
+    box-sizing: border-box;
+    flex: 1;
+  }
+  .supportingText2 {
+    font-size: var(--font-size-base);
+  }
+  .processParent,
+  .stage1,
+  .stage2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .stage1 {
+    padding-bottom: var(--padding-74xl);
+    flex: 1;
+  }
+  .processParent,
+  .stage2 {
+    padding-bottom: var(--padding-75xl);
+  }
+  .processParent {
+    gap: var(--gap-mini);
+    padding-bottom: var(--padding-8xl);
+  }
+}

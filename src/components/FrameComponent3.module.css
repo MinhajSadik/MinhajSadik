@@ -1,0 +1,120 @@
+.minhaj {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 198px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+}
+.experienceIconList,
+.experienceIconList1,
+.experienceIconList3 {
+  height: 263px;
+  width: 263.6px;
+  position: relative;
+  border-radius: var(--br-481xl);
+  object-fit: cover;
+}
+.experienceIconList1,
+.experienceIconList3 {
+  border-radius: var(--br-5xl);
+}
+.experienceIconList3 {
+  z-index: 1;
+}
+.experienceIcons,
+.visionMission {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.experienceIcons {
+  row-gap: 20px;
+}
+.visionMission {
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+  z-index: 2;
+  margin-top: -17px;
+}
+.experience,
+.nameDescription {
+  align-self: stretch;
+  flex-direction: column;
+}
+.experience {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -120px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-400);
+}
+.nameDescription {
+  padding: 0;
+}
+.contentAboutUs,
+.contentAboutUsWrapper,
+.nameDescription {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contentAboutUs {
+  flex: 1;
+  border-radius: var(--br-5xl);
+  flex-direction: column;
+  padding: var(--padding-46xl);
+  background-image: url(/public/content-about-us@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.contentAboutUsWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-13xl) var(--padding-base);
+  text-align: left;
+  font-size: var(--font-size-320xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1482px) {
+  .experienceIcons {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .contentAboutUs {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .minhaj {
+    font-size: var(--font-size-117xl);
+    line-height: 119px;
+  }
+  .contentAboutUs {
+    padding-top: var(--padding-23xl);
+    padding-bottom: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .minhaj {
+    font-size: var(--font-size-66xl);
+    line-height: 79px;
+  }
+}

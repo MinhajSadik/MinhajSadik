@@ -1,0 +1,68 @@
+.hackerrankOneChild {
+  height: 130.3px;
+  width: 239.9px;
+  border-radius: var(--br-81xl);
+  object-fit: contain;
+}
+.hackerrankIcon {
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.hackerrank {
+  width: 140px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.hackerrankLinkOne,
+.hackerrankOne {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  z-index: 1;
+}
+.hackerrankLinkOne {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-gray-100);
+  align-items: center;
+  padding: var(--padding-mini) var(--padding-26xl);
+  gap: var(--gap-3xs);
+  margin-left: -44px;
+}
+.hackerrankOne {
+  align-items: flex-end;
+  row-gap: 20px;
+  max-width: 100%;
+  margin-left: -10px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 825px) {
+  .hackerrankOne {
+    flex: 1;
+    min-width: 100%;
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .hackerrankOneChild {
+    flex: 1;
+  }
+  .hackerrank {
+    font-size: var(--font-size-lgi);
+  }
+  .hackerrankLinkOne {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+    margin-left: 0;
+  }
+  .hackerrankOne {
+    flex-wrap: wrap;
+  }
+}

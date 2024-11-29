@@ -1,0 +1,50 @@
+.detailsChild {
+  align-self: stretch;
+  height: 368px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.detailsChild,
+.h3,
+.peragraph1 {
+  position: relative;
+}
+.h3 {
+  margin: 0;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: inherit;
+}
+.peragraph1 {
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+  color: var(--greyscale-400);
+}
+.details,
+.texts {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.texts {
+  align-self: stretch;
+  gap: var(--gap-5xs);
+}
+.details {
+  width: 420px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 450px) {
+  .h3 {
+    font-size: var(--font-size-lgi);
+  }
+}

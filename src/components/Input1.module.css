@@ -1,0 +1,18 @@
+.email {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.input {
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-silver);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-xs);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

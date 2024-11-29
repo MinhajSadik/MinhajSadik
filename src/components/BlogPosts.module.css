@@ -1,0 +1,24 @@
+.navigationIcon {
+  height: 489.9px;
+  width: 470.7px;
+  border-radius: var(--br-13xl);
+  object-fit: contain;
+  max-width: 100%;
+}
+.blogPosts {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 0.63px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--greyscale-500);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1482px) {
+  .blogPosts {
+    flex-wrap: wrap;
+  }
+}
