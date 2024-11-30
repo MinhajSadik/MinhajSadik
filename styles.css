@@ -1,1 +1,156 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  max-width: 1200px;
+}
+
+/* Header */
+.header {
+  background: #000;
+  color: #fff;
+  padding: 1rem 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-links li {
+  margin: 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background: #f5a623;
+  color: #fff;
+}
+
+.btn-secondary {
+  background: #444;
+  color: #fff;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  background: #f4f4f4;
+  padding: 2rem 0;
+}
+
+.hero-buttons {
+  margin-top: 1rem;
+}
+
+.social-links {
+  margin-top: 1rem;
+}
+
+.social-links a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: #0073b1;
+}
+
+/* Featured Projects */
+.featured-projects {
+  padding: 2rem 0;
+}
+
+.featured-projects h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.project-grid {
+  display: flex;
+  gap: 1rem;
+}
+
+.project-card {
+  flex: 1;
+  background: #fff;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.project-card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+/* Testimonials */
+.testimonials {
+  background: #333;
+  color: #fff;
+  padding: 2rem 0;
+}
+
+.testimonials h2 {
+  text-align: center;
+}
+
+.testimonial {
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Footer */
+.footer {
+  background: #000;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .project-grid {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+
+  .btn {
+    display: block;
+    margin: 0.5rem 0;
+  }
+}
 
